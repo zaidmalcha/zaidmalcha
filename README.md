@@ -3,7 +3,7 @@
 
    <head>
    <h1 class="titles">Welcome to my github page</h1>
-  <title>zaid's portfolio</title>
+
    </head>
    <body>
       <div id="WhoAmI" style="color: cadetblue;">im zaid , currently studying in <a class="URLLinks" href="https://www.just.edu.jo/ar/Pages/Default.aspx#">JUST University</a>
@@ -14,10 +14,11 @@
          <li>Databases&#128190;</li>
          <h4>and potentially could have more</h4>
       </ul>
+      <hr>
       <p id="MyProjects"><ul>i have a number of projects done and thats some of them:
          <li id="HotelSystem">hotel managment system</li>
          <li id="RockPaper">Rock Paper Scissors game</li>
-      </ul></p>
+      </ul></p><hr>
       <p>at the moment im sharpening my skills in:
          <ul>
             <li>problem solving</li>
